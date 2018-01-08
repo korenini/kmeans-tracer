@@ -47,7 +47,7 @@ commandline arguments override those written in settings.py.
 
 ```python3 kmtracer.py -k 3 -d iris.csv -a Hartigan-Wong```
 
-
+Iris dataset:
 Fisher R.A. (1936). 
 UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: 
 University of California, School of Information and Computer Science. 
