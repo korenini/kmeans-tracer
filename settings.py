@@ -50,7 +50,7 @@ hw_initialize_centers = 10
 hw_tol = float(1.00)
 
 
-# Allowed number of iterations in Hartigan-Wong algorithm
+# Allowed number of iterations in Hartigan-Wong algorithm.
 # This is a safety measure for cases when clustering doesn't converge.
 # In case this limit is reached a warning is issued.
 hw_iter_max = 20
