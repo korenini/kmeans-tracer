@@ -9,7 +9,7 @@ parser.add_argument('-d', '--data', dest='cmd_data_files', type=str,
                     help='File containing the data.',
                     required=False)
 parser.add_argument('-t', '--type', dest='cmd_data_type', type=str,
-                    help='Data type, raw or distances',
+                    help='Data type: raw or distances',
                     required=False)
 parser.add_argument('-k', '--clusters', dest='cmd_clusters', type=int,
                     help='The number of clusters.', required=False)
