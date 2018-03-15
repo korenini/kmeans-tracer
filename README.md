@@ -1,3 +1,4 @@
+# *k*-means tracer
 *k*-means tracer is a command line tool used to cluster the data into the specified 
 number of non-overlapping clusters. 
 It contains special features not found in other implementations of these algorithms.
